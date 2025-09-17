@@ -1,0 +1,1 @@
+React frontend with Redux Toolkit for Attendance Dashboard. Run `npm install` then `npm start`. Set REACT_APP_API_URL if backend is remote.
